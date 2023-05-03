@@ -6,8 +6,6 @@ The population share is taken appropriately from a website and this should match
 
 
 
-\n
-
 **Indian_population_Generator.py
  - - This generates one single file for all states 
  - Because cautious with the num_rows parameter . as the larger the number the larger it will get  
