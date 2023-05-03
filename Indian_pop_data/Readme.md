@@ -8,4 +8,4 @@ The population share is taken appropriately from a website and this should match
 **Indian_population_Generator.py
  - This generates one single file for all states 
 
-***Be cautious with the num_rows parameter . as the larger the number the larger it will get ***
+***Be cautious with the num_rows parameter . as the larger the number the larger the file and more time it takes it will get  , i have given 1.5billion now as of Indias poulation***
