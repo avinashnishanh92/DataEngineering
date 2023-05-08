@@ -14,7 +14,7 @@ import pandas as pd
 
 df = pd.read_csv("india_pop_share_state_wise.csv")
 print("sample data")
-df1.head(1)
+df.head(1)
 
 # to generate fake name , id , age , dob ,zipcode 
 from faker import Faker
